@@ -1,0 +1,8 @@
+{
+  "name": "ZimDex OS",
+  "description": "A web-based OS simulation with advanced 3D animations and glassmorphism UI.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
